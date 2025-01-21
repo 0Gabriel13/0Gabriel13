@@ -92,3 +92,11 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
 
 ### Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/0Gabriel13/0Gabriel13/output/snake.svg" alt="Snake animation" />
+
+###
