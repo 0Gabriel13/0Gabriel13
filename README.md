@@ -3,7 +3,7 @@ Me chamo Gabriel , tenho 25 anos e sou Cachoeiro de Itapemirim ES. Atualmente, e
 
 **`Desenvolvedora back-end`**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-oliveira-48b3a9289)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wwwgabriels/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gabrielstone_)
 
