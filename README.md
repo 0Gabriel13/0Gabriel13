@@ -1,9 +1,10 @@
-   <br clear="both">
+<div align="center">
 
-<p align="center">Olá, Bem vindo ao meu GitHub!</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&background=EB00FF00&repeat=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-###
-Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix.
+</div>
+
+#### Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix.
 
 **`Desenvolvedor back-end`**
 
