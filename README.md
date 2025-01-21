@@ -1,5 +1,5 @@
 ### Olá, Bem vindo ao meu GitHub!
-Me chamo Gabriel , tenho 25 anos e sou Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix.
+Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix.
 
 **`Desenvolvedora back-end`**
 
@@ -7,7 +7,9 @@ Me chamo Gabriel , tenho 25 anos e sou Cachoeiro de Itapemirim ES. Atualmente, e
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wwwgabriels/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gabrielstone_)
 
-![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=0Gabriel13&show_icons=true&theme=dracula)
+![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=0gabriel13&show_icons=true&theme=tokyonight)
+
+![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0gabriel13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ## Tecnologias que eu uso no meu dia
 
