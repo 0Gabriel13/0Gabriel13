@@ -76,6 +76,8 @@ Me chamo Gabriel , tenho 25 anos e sou Cachoeiro de Itapemirim ES. Atualmente, e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
 />
 
+A
 <br/>
 <br/>
+Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
 
