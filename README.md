@@ -55,6 +55,14 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
 />
 <img 
     align="left" 
+    alt="sql" 
+    title="sql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
