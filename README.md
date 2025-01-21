@@ -3,10 +3,6 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
 
 **`Desenvolvedor back-end`**
 
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"  />
-</div>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wwwgabriels/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gabrielstone_)
@@ -21,7 +17,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
@@ -29,7 +25,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="JAVA" 
     title="JAVA"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -37,7 +33,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="postgresql"
     title="postgresql" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
@@ -45,7 +41,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="spring" 
     title="spring"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
@@ -53,7 +49,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="eclipse" 
     title="eclipse"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
 />
@@ -61,7 +57,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="sql" 
     title="sql"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -69,7 +65,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="Postman" 
     title="Postman"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -77,7 +73,7 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="docker" 
     title="docker"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  
 />
@@ -85,13 +81,14 @@ Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES
     align="left" 
     alt="rabbitmq" 
     title="rabbitmq"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
 />
-
-
 <br/>
 <br/>
-Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+
+
+### Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
 
