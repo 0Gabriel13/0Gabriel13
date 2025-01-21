@@ -1,7 +1,11 @@
-### Olá, Bem vindo ao meu GitHub!
+   ### Olá, Bem vindo ao meu GitHub!
 Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix.
 
-**`Desenvolvedora back-end`**
+**`Desenvolvedor back-end`**
+
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"  />
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wwwgabriels/)
