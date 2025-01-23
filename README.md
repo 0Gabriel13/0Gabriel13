@@ -1,107 +1,135 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=A7A7A7&background=EB00FF00&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Oliveira;Seja+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
+### Tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix. Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0Gabriel13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Gabriel13&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
 </div>
-
-#### Me chamo Gabriel , tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix.
-
-**`Desenvolvedor back-end`**
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wwwgabriels/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gabrielstone_)
-
-![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=0gabriel13&show_icons=true&theme=tokyonight)
-
-![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0gabriel13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
-
-## Tecnologias que eu uso no meu dia
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="postgresql"
-    title="postgresql" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="spring" 
-    title="spring"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="eclipse" 
-    title="eclipse"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="sql" 
-    title="sql"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="docker" 
-    title="docker"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  
-/>
-<img 
-    align="left" 
-    alt="rabbitmq" 
-    title="rabbitmq"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
-/>
-<br/>
-<br/>
-
-
-
-### Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/0Gabriel13/0Gabriel13/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/wwwgabriels/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.tiktok.com/@gabrielstone_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
+</div> 
+
+
+### Principais habilidades:
+<img 
+    align="left" 
+    alt="JAVA" 
+    title="JAVA"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>&nbsp;
+<img 
+    align="left" 
+    alt="spring" 
+    title="spring"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>&nbsp;
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  
+/>&nbsp;
+<img 
+    align="left" 
+    alt="sql" 
+    title="sql"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>&nbsp;
+
+<br/>
+
+### Ferramentas que eu utilizo:
+<img 
+    align="left" 
+    alt="eclipse" 
+    title="eclipse"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
+/>&nbsp;
+<img 
+    align="left" 
+    alt="vscode" 
+    title="vscode"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  
+/>&nbsp;
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>&nbsp;
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>&nbsp;
+<img 
+    align="left" 
+    alt="rabbitmq" 
+    title="rabbitmq"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+/>&nbsp;
+
+<br/>
+
+### Outros conhecimentos:
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>&nbsp;
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  
+/>&nbsp;
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>&nbsp;
+
+<br/>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
