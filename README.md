@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Oliveira;Seja+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
-### Tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim ES. Atualmente, estou cursando Sistema de Informação na faculdade Multivix. Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
+<p align="center">
+   Tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim, ES.  
+  Atualmente, estou cursando Sistemas de Informação na faculdade Multivix.  
+  Apaixonado por tecnologia, educação e por mudar vidas através da programação.  
+</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0Gabriel13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
