@@ -49,14 +49,6 @@
 />&nbsp;
 <img 
     align="left" 
-    alt="docker" 
-    title="docker"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  
-/>&nbsp;
-<img 
-    align="left" 
     alt="sql" 
     title="sql"
     width="40px" 
