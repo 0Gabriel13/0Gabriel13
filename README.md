@@ -26,7 +26,7 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/wwwgabriels/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.tiktok.com/@gabrielstone_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
+<a href="https://www.tiktok.com/@gabriellstone?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
 </div> 
 
 
