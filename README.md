@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Oliveira;Seja+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
 <p align="center">
-   Tenho 25 anos e moro atualmente em Cachoeiro de Itapemirim, ES.  
+   Tenho 26 anos e moro atualmente em Cachoeiro de Itapemirim, ES.  
   Atualmente, estou cursando Sistemas de Informação na faculdade Multivix.  
   Apaixonado por tecnologia, educação e por mudar vidas através da programação.  
 </p>
