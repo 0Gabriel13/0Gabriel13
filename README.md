@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Oliveira;Seja+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
+
 <p align="center">
    Tenho 26 anos e moro atualmente em Cachoeiro de Itapemirim, ES.  
   Atualmente, estou cursando Sistemas de Informação na faculdade Multivix.  
@@ -8,27 +9,22 @@
 </p>
 
 <div align="center">  
-  <!-- Estatísticas do perfil -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0Gabriel13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=""/>
+  <!-- Estatísticas do perfil com cache reduzido -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0Gabriel13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Estatísticas GitHub"/>
 
-  <!-- Gráfico de linguagens com layout compacto -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Gabriel13&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6" />
-</div>
-  
+  <!-- Gráfico de linguagens com cache reduzido -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Gabriel13&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&cache_seconds=1800" alt="Linguagens mais usadas"/>
 </div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/0Gabriel13/0Gabriel13/output/snake.svg" alt="Snake animation" />
 
-
-
 <div align="center">  
-<a href="https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.instagram.com/wwwgabriels/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.tiktok.com/@gabriellstone?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-48b3a9289/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.instagram.com/wwwgabriels/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.tiktok.com/@gabriellstone?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
 </div> 
-
 
 ### Principais habilidades:
 <img 
@@ -144,8 +140,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />&nbsp;
 
+<!-- Badge de atividade recente -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Gabriel13&theme=react-dark&bg_color=0d1117&hide_border=true&color=00bfbf&line=00bfbf&point=FFFFFF" alt="Atividade GitHub"/>
+</div>
+
 <br/>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
